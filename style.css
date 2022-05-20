@@ -20,3 +20,14 @@ section{
     font-weight: 200;
     
 }
+.top-up{
+    padding-right: 10%;
+    width: 70%;
+    
+
+}
+.top-up img{
+    height: 100% ;
+    width: 70%;
+    padding-right: 10%;
+}
