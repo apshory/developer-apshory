@@ -1,6 +1,6 @@
 h1{color: red;}
 .red-color{color: rgb(0, 0, 0);}
-section{
+.flexiable-container{
     display: flex;
 }
 .half-width{
